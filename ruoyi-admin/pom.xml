@@ -48,6 +48,12 @@
             <artifactId>ruoyi-generator</artifactId>
         </dependency>
 
+        <!-- 测试模块-->
+        <dependency>
+            <groupId>com.ruoyi</groupId>
+            <artifactId>ruoyi-test</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
